@@ -6,7 +6,7 @@ Starting point is creating a making AMP pages in Jekyll where it will be simple 
 
 I also wanted to make it as simple as possible to add new pages that are SEO- and AMP-ready without having to edit too much code. Automation of optionally adding inline Schema JSON-LD of the currently supported by AMP: Article, NewsArticle, BlogPosting, VideoObject (https://github.com/ampproject/amphtml/tree/master/examples/metadata-examples). 
 
-As I didn't find any solution that meets my requirements to SEO and I am new to Jekyll, liquid, it was trial and eror till I found the solutions that worked. 
+As I didn't find any solution that meets my requirements to SEO and I am new to Jekyll, liquid, it was trial and error till I found the solutions that worked. 
 
 
 # SEO-friendliness
@@ -25,12 +25,12 @@ As I didn't find any solution that meets my requirements to SEO and I am new to 
 - For additional speed: Complete removal of whitespace stripping of comments for additional speed. This is accomplished by additions to _config.yml and wrapping the layout in "compression.html". Thanks to (http://jch.penibelst.de/) 
 
 
-# Added Later
+# Likely to Be Added Later
 - The changing language feature can certainly be more nifty when I get the time, but it works for my purpose of having 2 language options right now.
-- Compliance testing
-- Twitter Cards etc
+- Open Graph and Twitter Card data etc
+- 
 
-# Links
+# Ressources Used
 AMPproject
 
 
