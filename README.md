@@ -6,7 +6,9 @@ Starting point is creating a making AMP pages in Jekyll where it will be simple 
 
 I also wanted to make it as simple as possible to add new pages that are SEO- and AMP-ready without having to edit too much code. Automation of optionally adding inline Schema JSON-LD of the currently supported by AMP: Article, NewsArticle, BlogPosting, VideoObject (https://github.com/ampproject/amphtml/tree/master/examples/metadata-examples). 
 
-As I didn't find any solution that meets my requirements to SEO and I am new to Jekyll, liquid, it was trial and error till I found the solutions that worked. 
+As I didn't find any solution that meets my requirements to SEO and I am new to Jekyll, Liquid, it was trial and error till I found the solutions that worked exactly like need. I'm sure some solutions could be more elegant - especially in Liquid could be more elegant, but I am very happy about the outcome that matters: the end code. 
+
+If building on a localhost, the URLs in the _site folder will get corrected when typing the command: jekyll build.
 
 
 # SEO-friendliness
@@ -31,7 +33,8 @@ As I didn't find any solution that meets my requirements to SEO and I am new to 
 - 
 
 # Ressources Used
-AMPproject
+AMPproject(https://www.ampproject.org/)
+Jekyll (http://jekyllrb.com/)
 
 
 
