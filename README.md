@@ -45,7 +45,7 @@ If building on a localhost, the URLs in the _site folder will get corrected when
 
 # Ressources Used
 - AMP Project - Official Website (https://www.ampproject.org/)
-- AMP Project on GitHub ((https://github.com/ampproject/amphtml/)
+- AMP Project on GitHub ((https://github.com/ampproject/)
 - Jekyll (http://jekyllrb.com/)
 - Compression.html (http://jch.penibelst.de/) 
 
