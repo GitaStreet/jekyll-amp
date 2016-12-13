@@ -17,7 +17,7 @@ I also wanted to make it as simple as possible to add new pages that are SEO- an
 
 As I didn't find any solution that meets my requirements to SEO and I am new to Jekyll, Liquid, it was trial and error till I found the solutions that worked exactly like need. I'm sure some solutions could be more elegant - especially in Liquid could be more elegant, but I am very happy about the outcome that matters: the end code. 
 
-If building on a localhost, the URLs in the _site folder will get corrected when typing the command: jekyll build.
+If building on a localhost, the URLs in the _site folder will get corrected when typing the command: jekyll build. Do ensure that all links and canonical links are correct after the build. 
 
 # SEO-friendliness
 - Option to keep existing URL structure in order to preserve link juice and avoid 404s: .htm html or / .
