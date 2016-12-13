@@ -34,6 +34,7 @@ If building on a localhost, the URLs in the _site folder will get corrected when
 - Google Webfonts and Font Awesome Icons via CDN. See valid option for AMP Pages ( https://www.ampproject.org/docs/guides/responsive/custom_fonts)
 
 # Likely to Be Added Later
+- Possibility of adding all types of supported JSON-LD formats.
 - The changing language feature can certainly be more nifty when I get the time, but it works for my purpose of having 2 language options right now.
 - Open Graph and Twitter Card data etc.
 - Adjust the posts URLs.
