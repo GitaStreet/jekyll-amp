@@ -10,7 +10,6 @@ As I didn't find any solution that meets my requirements to SEO and I am new to 
 
 If building on a localhost, the URLs in the _site folder will get corrected when typing the command: jekyll build.
 
-
 # SEO-friendliness
 - Option to keep existing URL structure in order to preserve link juice and avoid 404s: .htm html or / .
 - Automatic and proper canonical and amphtml links (Absolute paths are mandatory).
@@ -18,19 +17,24 @@ If building on a localhost, the URLs in the _site folder will get corrected when
 - Proper language tags in code.
 - Custom title and meta description on each page by adding it to Front Matter (Avoid repeated use).
 - Absolute path internal links. Ensure link juice and reduce duplicate content risks.
+- Option to add supported.
+- Automatically adds each page's info from Front Matter to the relevant inline manifest.json. In order to ensure AMP is valid - headline in manifest.json is automatically stripped of characters exceeding 110. The rules to the logo and photos have to be done manually, though (https://developers.google.com/search/docs/data-types/articles).   
 
 
 # Features 
 - Pure AMP pages.
 - Optional alternative non-AMP pages.
 - 2 languages for now.
-- For additional speed: Complete removal of whitespace stripping of comments for additional speed. This is accomplished by additions to _config.yml and wrapping the layout in "compression.html".
+- For additional speed: Complete removal of whitespace stripping of comments for additional speed. This is accomplished by additions to _config.yml and wrapping the layout in "compression.html". For code readability you can uncomment // layout: compress in the relevant template when in development.
 
 
 # Likely to Be Added Later
 - The changing language feature can certainly be more nifty when I get the time, but it works for my purpose of having 2 language options right now.
 - Open Graph and Twitter Card data etc
-- 
+
+# Read more
+http://streetpatrol.com/accelerated-mobile-pages/
+
 
 # Ressources Used
 AMP Project - Official Website (https://www.ampproject.org/)
