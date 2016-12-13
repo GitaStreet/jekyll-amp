@@ -1,7 +1,7 @@
 # Jekyll Starter Theme for Accelerated Mobile Pages (AMP).
 
-Demo (Coming up...)
-Documentation - much more will be added (http://streetpatrol.com/accelerated-mobile-pages/)
+- Demo (Coming up...)
+- Documentation - much more will be added (http://streetpatrol.com/accelerated-mobile-pages/)
 
 
 ## Main Features
