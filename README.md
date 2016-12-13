@@ -35,7 +35,7 @@ If building on a localhost, the URLs in the _site folder will get corrected when
 - Adjust the posts URLs.
 
 # Read more
-http://streetpatrol.com/accelerated-mobile-pages/
+Documentation - much more will be added (http://streetpatrol.com/accelerated-mobile-pages/)
 
 
 # Ressources Used
