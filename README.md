@@ -34,8 +34,8 @@ If building on a localhost, the URLs in the _site folder will get corrected when
 - Optional alternative non-AMP pages.
 - 2 languages for now.
 - For additional speed: Complete removal of whitespace stripping of comments for additional speed. This is accomplished by additions to _config.yml and wrapping the layout in "compression.html". For code readability you can uncomment // layout: compress in the relevant template when in development.
-- Added menu using 
-- Google Webfonts and Font Awesome Icons via CDN. See valid option for AMP Pages ( https://www.ampproject.org/docs/guides/responsive/custom_fonts)
+- Added menu using.
+- Google Webfonts and Font Awesome Icons via CDN. See valid option for AMP Pages ( https://www.ampproject.org/docs/guides/responsive/custom_fonts).
 
 # Likely to Be Added Later
 - Possibility of adding all types of supported JSON-LD formats.
