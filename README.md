@@ -2,9 +2,10 @@
 
 ## Main Features
 - Great for SEO.
-- Superfast.
+- Built for speed.
+- Mobile friendly.
 - Simple and flexible for redesigning existing website.
-
+- Possibility of getting featured in Google Carousel (AMP and normal) by adding semi-automatically created content in inline JSON-LD files.
 
 Starting point is creating a making AMP pages in Jekyll where it will be simple and time saving to redesign and update the code by separation of concerns and Don't Repeat Yourself (DRY). 
 
