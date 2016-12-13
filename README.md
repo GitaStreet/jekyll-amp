@@ -1,6 +1,10 @@
-# Jekyll Theme for Accelerated Mobile Pages (AMP)
+# Jekyll Starter Theme for Accelerated Mobile Pages (AMP).
 
-Jekyll Starter Theme for Accelerated Mobile Pages (AMP)
+## Main Features
+- Great for SEO.
+- Superfast.
+- Simple and flexible for redesigning existing website.
+
 
 Starting point is creating a making AMP pages in Jekyll where it will be simple and time saving to redesign and update the code by separation of concerns and Don't Repeat Yourself (DRY). 
 
