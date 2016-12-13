@@ -1,5 +1,9 @@
 # Jekyll Starter Theme for Accelerated Mobile Pages (AMP).
 
+Demo (Coming up...)
+Documentation - much more will be added (http://streetpatrol.com/accelerated-mobile-pages/)
+
+
 ## Main Features
 - Great for SEO.
 - Built for speed.
@@ -25,7 +29,6 @@ If building on a localhost, the URLs in the _site folder will get corrected when
 - Option to add supported.
 - Automatically adds each page's info from Front Matter to the relevant inline manifest.json. In order to ensure AMP is valid - headline in manifest.json is automatically stripped of characters exceeding 110. The rules to the logo and photos have to be done manually, though (https://developers.google.com/search/docs/data-types/articles).   
 
-
 # Features 
 - Pure AMP pages.
 - Optional alternative non-AMP pages.
@@ -39,10 +42,6 @@ If building on a localhost, the URLs in the _site folder will get corrected when
 - The changing language feature can certainly be more nifty when I get the time, but it works for my purpose of having 2 language options right now.
 - Open Graph and Twitter Card data etc.
 - Adjust the posts URLs.
-
-# Read more
-Documentation - much more will be added (http://streetpatrol.com/accelerated-mobile-pages/)
-
 
 # Ressources Used
 - AMP Project - Official Website (https://www.ampproject.org/)
