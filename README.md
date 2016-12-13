@@ -13,11 +13,11 @@ If building on a localhost, the URLs in the _site folder will get corrected when
 
 # SEO-friendliness
 - Option to keep existing URL structure in order to preserve link juice and avoid 404s: .htm html or / .
-- Automatic and proper canonical and amphtml links (Absolute paths).
-- Easy to add proper use of hreflang to alternative language by adding alternative URL and language to Front Matter.
+- Automatic and proper canonical and amphtml links (Absolute paths are mandatory).
+- Easy to add proper use of hreflang to alternative language by adding alternative URL and language to Front Matter. This could also be performed in a properly formatted sitemap, but will add to complexity when adding new pages and will be more difficult to control manually. The hreflang helps Google choose the right search result to render, and is also claimed to reduce risk of too much repeated content - and in some cases - duplicate content. 
 - Proper language tags in code.
 - Custom title and meta description on each page by adding it to Front Matter (Avoid repeated use).
-- Absolute path internal links. 
+- Absolute path internal links. Ensure link juice and reduce duplicate content risks.
 
 
 # Features 
